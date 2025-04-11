@@ -1,4 +1,4 @@
-﻿<table align="center" border="0">
+<table align="center" border="0">
 
 <tr><td colspan=2 align="center">
 
@@ -170,7 +170,7 @@ Unfortunately, there is no "make everything ok" button in DeepFaceLab. You shoul
 
 <tr><td align="right">
 <a href="https://discord.gg/rxa7h9M6rH">Discord</a>
-</td><td align="center">Official discord channel. English / Russian.</td></tr>
+</td><td align="center">Official discord channel.  teste aqui English / Russian.</td></tr>
 
 <tr><td colspan=2 align="center">
 
